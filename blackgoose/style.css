@@ -1,0 +1,32 @@
+
+body {
+background-image: url(background.jpg);
+margin: 0 15%;
+font-family: 'Noto Serif', sans-serif;
+}
+h1 {
+ text-shadow:
+ -.05em -.05em .05em black,
+ .03em .03em .05em white;
+ text-align: center;
+ font-family: 'Yeseva One', cursive;
+ font-size: 3em;	
+ text-transform: uppercase;
+ border-bottom: 1px solid #d1633c;
+ margin-top: 30px;
+ color: #d1633c
+}
+h2 {
+ color: #d1633c;
+ font-size: 1em;
+ font-family: 'Yeseva One', cursive;
+}
+h3 {
+ text-align: center;
+ color: #d1633c;
+ font-size: 1em;
+ font-family: 'Yeseva One', cursive;
+}
+em.motto {
+ color: #d1633c;
+}	
