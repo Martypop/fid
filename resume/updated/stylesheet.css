@@ -1,0 +1,49 @@
+<link href="https://fonts.googleapis.com/css?family=Abel|Julius+Sans+One" rel="stylesheet">
+
+
+h1 {
+text-shadow: 0 0 .7em black;
+font-family: 'Abel', sans-serif;
+text-align: center;
+
+}
+h2, h3 {
+font-family: 'Abel', sans-serif;
+text-align: center;
+}
+
+p {
+font-family: 'Abel', sans-serif;
+font-size: 100%;
+margin: 10px;
+}
+div#about {
+text-align: center;
+font-size: 125%;
+}
+section#info {
+width: 750px;
+height: 150px;
+padding: 25px;
+border: 2px solid black;
+font-family: 'Abel', sans-serif;
+font-size: 100%;	
+margin-left: 23%;
+}
+ul {
+width: 50%;	
+margin-left: 23%;
+}
+div#skills {
+font-family: 'Abel', sans-serif;
+font-size: 125%;
+}
+a{
+font-family: 'Abel', sans-serif;
+font-size: 125%;
+}
+div#portfolio {
+text-align: center;
+font-size: 125%;
+}
+
