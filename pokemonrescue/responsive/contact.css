@@ -1,0 +1,55 @@
+body {
+background-color: #98C9FF;
+background-repeat: no-repeat;
+background-position: center;
+background-attachment: fixed;
+background-image: url(images/pokeball.png);
+margin: 0 15%;
+font-family: 'Dosis', sans-serif;
+font-size: 1em;
+}
+p {
+
+font-size: 1.5em;
+}
+h2 {
+ text-align: center;
+ text-shadow:
+ -.05em -.05em .05em navy;
+ color: #F6CC12;
+ font-size: 1.75em;
+ font-family: 'Share', cursive;
+}	
+ul { 
+font-family: 'Share', cursive;
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #F6CC12;
+}
+li {
+font-size: 1.5em;
+float: left;
+}
+li a {
+display: block;
+color: white;
+text-align: center;
+padding: 10px 12px;
+text-decoration: none;
+}
+li a:hover:not(.active) {
+color:  #F6CC12;
+background-color: #fff;
+}
+.active {
+color:  #F6CC12;
+background-color: #fff;
+}
+img {
+float: left;
+}
+em {
+text-align: center;
+}
